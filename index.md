@@ -5,15 +5,15 @@
 
 ## Chapitres
 
-- Introduction
-- De programmeur à développeur
-- Encapsulation, Types & Interfaces
-- Concevoir des objets
-- Héritage & Typage
-- Conceptions & Attribution des Responsabilités
-- Introduction aux patrons de conception
-- Les patrons de conception
-- Mesure et Visualisation
+- [Introduction](/chapters/0_intro)
+- [De programmeur à développeur](/chapters/1_developpeur)
+- [Encapsulation, Types & Interfaces](/chapters/2_encapsulation)
+- [Concevoir des objets](/chapters/3_objets)
+- [Héritage & Typage](/chapters/4_heritage)
+- [Conceptions & Attribution des Responsabilités](/chapters/5_conception)
+- [Introduction aux patrons de conception](/chapters/6_intro_patrons)
+- [Les patrons de conception](/chapters/7_patrons)
+- [Mesure et Visualisation](/chapters/8_mesure)
 
 ## Examens
 
