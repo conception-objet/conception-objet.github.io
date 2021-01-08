@@ -1,0 +1,29 @@
+pages:
+  - title:
+    subfolderitems:
+      - page: Accueil
+        url: /
+      - page: À propos
+        url: /about
+      - page: Espace enseignant
+        url: /teach
+  - title: Chapitres
+    subfolderitems:
+      - page: Introduction
+        url: /chapters/0_intro
+      - page: De programmeur à développeur
+        url: /chapters/1_developpeur
+      - page: Encapsulation, Types & Interfaces
+        url: /chapters/2_encapsulation
+      - page: Concevoir des objets
+        url: /chapters/3_objets
+      - page: Héritage & Typage
+        url: /chapters/4_heritage
+      - page: Conceptions & attribution des responsabilités
+        url: /chapters/5_conception
+      - page: Introduction aux patrons de conception
+        url: /chapters/6_intro_patrons
+      - page: Les patrons de conception
+        url: /chapters/7_patrons
+      - page: Mesure et visualisation
+        url: /chapters/8_mesure
