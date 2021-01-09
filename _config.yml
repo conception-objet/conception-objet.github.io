@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 title: "Conception Logicielle"
-description: "Site web officiel du cours INF5153 de l'UQAM (Sébastien Mosser)"
+description: "Site web du cours INF5153 de l'UQAM"
 github:
   owner_url: https://github.com/mosser
   owner_name: Sébastien Mosser
